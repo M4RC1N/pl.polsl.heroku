@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <title>Create Product</title>
+  <title>Create Model</title>
 		<meta name="layout" content="main"/>
-	
-	
 	
 		
 	</head>

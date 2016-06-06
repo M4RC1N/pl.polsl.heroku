@@ -78,7 +78,6 @@ class ActionController {
 		Brand currentBrand = Brand.get(model.brand.id)
 		model.delete(flush: true)
 		
-	
 		redirect(action: "brandCars", params: [brandName: currentBrand.brandName])
 		
 	}
